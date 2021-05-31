@@ -1,2 +1,7 @@
 this is teh new one
+<<<<<<< HEAD
  this is appended changed
+=======
+hai
+hello
+>>>>>>> 294efeb7886eb1adf6baa66d731a1945aead6fa9
